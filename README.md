@@ -100,10 +100,6 @@ npm run dev
 
 Frontend runs at `http://localhost:5173`.
 
-Deployed frontend URL:
-
-- `https://prime-trade-ai-project.vercel.app/login`
-
 ## Frontend Features
 
 - User registration and login UI

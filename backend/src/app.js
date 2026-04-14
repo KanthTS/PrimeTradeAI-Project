@@ -13,10 +13,7 @@ const swaggerSpec = require('./config/swagger');
 
 const app = express();
 
-const allowedOrigins = [
-  'http://localhost:5173',
-  process.env.FRONTEND_URL || 'https://prime-trade-ai-project.vercel.app',
-];
+const allowedOrigins = ['http://localhost:5173'];
 
 app.use(
   cors({
