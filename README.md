@@ -36,7 +36,7 @@ npm install
 npm run dev
 ```
 
-Backend runs at `http://localhost:5000`.
+Backend runs at `http://localhost:5001`.
 
 ### API Versioning
 
@@ -59,7 +59,7 @@ All APIs are under:
 
 ### API Documentation
 
-- Swagger UI: `http://localhost:5000/api-docs`
+- Swagger UI: `http://localhost:5001/api-docs`
 - Postman Collection: `backend/docs/postman_collection.json`
 
 ### Database Schema (MongoDB)
@@ -99,6 +99,10 @@ npm run dev
 ```
 
 Frontend runs at `http://localhost:5173`.
+
+Deployed frontend URL:
+
+- `https://prime-trade-ai-project.vercel.app/login`
 
 ## Frontend Features
 
