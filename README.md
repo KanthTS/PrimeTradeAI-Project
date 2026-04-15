@@ -1,4 +1,4 @@
-# PrimeTradeAI Full-Stack Assignment
+# PrimeTradeAI Full-Stack(Backend) Assignment
 
 Production-style full-stack application with JWT auth, role-based authorization, task CRUD, API versioning, and React frontend integration.
 
